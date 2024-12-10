@@ -1,0 +1,44 @@
+[
+    {
+        "key": 1,
+        "name": "London",
+        "imgName": "london.jpg",
+        "phone": "123-456-7890",
+        "email": "london@carmony.com"
+    },
+    {
+        "key": 2,
+        "name": "Bristol",
+        "imgName": "bristol.jpg",
+        "phone": "234-567-8901",
+        "email": "bristol@carmony.com"
+    },
+    {
+        "key": 4,
+        "name": "Manchester",
+        "imgName": "manchester.jpg",
+        "phone": "456-789-0123",
+        "email": "manchester@carmony.com"
+    },
+    {
+        "key": 5,
+        "name": "Birmingham",
+        "imgName": "birmingham.jpg",
+        "phone": "567-890-1234",
+        "email": "birmingham@carmony.com"
+    },
+    {
+        "key": 6,
+        "name": "Leeds",
+        "imgName": "leeds.jpg",
+        "phone": "678-901-2345",
+        "email": "leeds@carmony.com"
+    },
+    {
+        "key": 7,
+        "name": "Newcastle",
+        "imgName": "newcastle.jpg",
+        "phone": "789-012-3456",
+        "email": "newcastle@carmony.com"
+    }
+]
